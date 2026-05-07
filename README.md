@@ -59,7 +59,7 @@ Cada projeto contém:
 **David Eduardo Lino**  
 Desenvolvedor Fullstack & Maker 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Eduardo%20Lino-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/davidedulino)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Eduardo%20Lino-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/davidlinoe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-davideduardolino.com-000?style=flat&logo=vercel)](https://davideduardolino.com)
 [![Web Who](https://img.shields.io/badge/Empresa-Web%20Who-00C896?style=flat)](https://webwho.com.br)
 
